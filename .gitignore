@@ -1,0 +1,10 @@
+.vscode/*
+Binaries/*
+Intermediate/*
+Saved/*
+Build/*
+DerivedDataCache/*
+Plugins/*
+.vs/*
+Certificate/*
+MagicLeapDemo.code-workspace
